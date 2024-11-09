@@ -57,3 +57,9 @@ In txx xxxnd xxll of Hxxxxxxxxx 2024, wxxxx txx wxlls xxx linxd witx sxxxxns sxo
 这道题名字实在太长了，以至于我在批量新建题目文件夹的时候遇到了这个：
 
 ![OSError File name too long](assets/filename_toolong.png)
+
+@volltin
+
+最终答案：
+- [lv1](files/answer_lv1.txt)
+- [lv2](files/answer_lv2.txt)
