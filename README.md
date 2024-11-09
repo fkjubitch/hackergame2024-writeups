@@ -85,6 +85,7 @@
 | [mcfx](players/mcfx/readme.md) | 总排名第 1 名 | 全部题目（除 签到、PowerfulShell、ZFS 文件恢复、LESS 文件查看器在线版、新生赛上的零解题） |
 | [梓瑶](players/ziyao233/readme.md) | 被开源指令集冲昏了头脑 | RISC-V：虎胆龙威(1,2) |
 | [MoeMagicMango](players/KoiMeautily/readme.md) | 总排名第 296 名, 很菜（ | 签到、喜欢做签到的 CTFer 你们好呀、猫咪问答（Hackergame 十周年纪念版）、打不开的盒、每日论文太多了！、比大小王、旅行照片 4.0、不宽的宽字符、Node.js is Web Scale、PaoluGPT、惜字如金 3.0(1)、无法获得的秘密、AI(1) |
+| [一只白鼠](players/arat/readme.md) | 总排名第 249 名，xm会less | 签到、喜欢做签到的 CTFer 你们好呀、猫咪问答（Hackergame 十周年纪念版）、打不开的盒、每日论文太多了！、比大小王、旅行照片 4.0、不宽的宽字符、PowerfulShell、PaoluGPT(1)、强大的正则表达式(1)、惜字如金 3.0(1)、优雅的不等式(1)、关灯(1) |
 
 ## 其他资源
 
