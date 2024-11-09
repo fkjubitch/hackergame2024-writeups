@@ -90,7 +90,6 @@
 | [风的影子](players/风的影子/README.md) | 总排名第26 | 签到、喜欢做签到的 CTFer 你们好呀、猫咪问答（Hackergame 十周年纪念版）、打不开的盒、每日论文太多了！、比大小王、旅行照片 4.0、不宽的宽字符、PowerfulShell、Node.js is Web Scale、PaoluGPT、强大的正则表达式（除Hard）、惜字如金 3.0（除题目 C）、优雅的不等式、无法获得的秘密、链上转账助手（除转账再失败）、不太分布式的软总线、动画分享、关灯（除Impossible）、禁止内卷、哈希三碰撞（三碰撞之一）、零知识数独（除无解之谜）、先104🤣」（「行吧就算标题可以很长但是 flag 一定要短点」） |
 | [一只白鼠](players/arat/readme.md) | 总排名第 249 名，xm会less | 签到、喜欢做签到的 CTFer 你们好呀、猫咪问答（Hackergame 十周年纪念版）、打不开的盒、每日论文太多了！、比大小王、旅行照片 4.0、不宽的宽字符、PowerfulShell、PaoluGPT(1)、强大的正则表达式(1)、惜字如金 3.0(1)、优雅的不等式(1)、关灯(1) |
 
-
 ## 其他资源
 
 [Hackergame 2024 幕后工作人员](https://hack.lug.ustc.edu.cn/credits/)
